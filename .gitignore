@@ -16,6 +16,7 @@ gamedata/deploy.development.json
 
 # Private stuff
 .env
+addSPX.js
 
 # Misc
 .tern-port
